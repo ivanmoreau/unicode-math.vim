@@ -1959,6 +1959,7 @@ _\\chi                                  <Char-0x01D6A>      " ᵪ
 \\mupxi                                 <Char-0x003BE>      " ξ
 \\mupZeta                               <Char-0x00396>      " Ζ
 \\mupzeta                               <Char-0x003B6>      " ζ
+\\Nat                                   <Char-0x02115>      " ℕ
 \\nabla                                 <Char-0x02207>      " ∇
 \\napprox                               <Char-0x02249>      " ≉
 \\nasymp                                <Char-0x0226D>      " ≭
