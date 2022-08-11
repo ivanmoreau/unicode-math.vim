@@ -7,6 +7,8 @@ let b:keymap_name = "αβ"
 scriptencoding utf-8
 loadkeymap
 
+\\::                                    <Char-0x02237>      " ∷
+
 ^0                                      <Char-0x02070>      " ⁰
 ^1                                      <Char-0x000B9>      " ¹
 ^2                                      <Char-0x000B2>      " ²
